@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.exe
+C:\Users\Asus\Desktop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.deps.json
+C:\Users\Asus\Desktop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.json
+C:\Users\Asus\Desktop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.dll
+C:\Users\Asus\Desktop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.pdb
+C:\Users\Asus\Desktop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.dll
+C:\Users\Asus\Desktop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.pdb
+C:\Users\Asus\Desktop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.genruntimeconfig.cache
