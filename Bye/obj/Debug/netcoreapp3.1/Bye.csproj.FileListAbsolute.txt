@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Hello\Bye\bin\Debug\netcoreapp3.1\Bye.exe
+C:\Users\Asus\Desktop\Hello\Bye\bin\Debug\netcoreapp3.1\Bye.deps.json
+C:\Users\Asus\Desktop\Hello\Bye\bin\Debug\netcoreapp3.1\Bye.runtimeconfig.json
+C:\Users\Asus\Desktop\Hello\Bye\bin\Debug\netcoreapp3.1\Bye.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Hello\Bye\bin\Debug\netcoreapp3.1\Bye.dll
+C:\Users\Asus\Desktop\Hello\Bye\bin\Debug\netcoreapp3.1\Bye.pdb
+C:\Users\Asus\Desktop\Hello\Bye\obj\Debug\netcoreapp3.1\Bye.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Hello\Bye\obj\Debug\netcoreapp3.1\Bye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Hello\Bye\obj\Debug\netcoreapp3.1\Bye.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Hello\Bye\obj\Debug\netcoreapp3.1\Bye.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Hello\Bye\obj\Debug\netcoreapp3.1\Bye.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Hello\Bye\obj\Debug\netcoreapp3.1\Bye.dll
+C:\Users\Asus\Desktop\Hello\Bye\obj\Debug\netcoreapp3.1\Bye.pdb
+C:\Users\Asus\Desktop\Hello\Bye\obj\Debug\netcoreapp3.1\Bye.genruntimeconfig.cache
